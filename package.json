@@ -1,0 +1,14 @@
+{
+  "name": "google-symmetric-tree",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
